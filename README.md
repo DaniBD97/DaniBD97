@@ -33,7 +33,7 @@
 </div>
 <br><br>
 <img align="right" alt="Coding" width="400" src="PC.jpg">
-<br><br>
+<br>
 
 
 - 🔭 I’m currently working on web development technologies like JavaScript, React , c#, .Net.
