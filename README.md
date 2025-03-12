@@ -1,7 +1,7 @@
 ![logo](banner1.jpg)
 
 
-<h1 align="center">Hi 👋, I'm DanielDev</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Programmer from Chile</h3>
 
 
@@ -9,16 +9,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<div style="display: flex; align-items: flex-center;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /></div>
 
 
 <br><br>
