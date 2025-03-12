@@ -9,7 +9,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<div style="display: flex; align-items: flex-center; align: center;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /></div>
+<div style="display: flex;  align: center;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /></div>
 
 
 <br><br>
