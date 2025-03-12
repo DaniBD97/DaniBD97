@@ -9,19 +9,12 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<div style="display: flex; align-items: flex-center;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /></div>
+<div style="display: flex; align-items: flex-center; align="center";"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" /></div>
 
 
 <br><br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+
 <br><br>
 <img align="right" alt="Coding" width="400" src="PC.jpg">
 <br>
