@@ -1,4 +1,4 @@
-![logo](banner.pdf)
+![logo](banner1.jpg)
 
 
 <h1 align="center">Hi 👋, I'm DanielDev</h1>
